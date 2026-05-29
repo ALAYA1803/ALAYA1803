@@ -102,20 +102,17 @@ mindset:     Proactive learner — research, master & ship fast
 <br/>
 
 ## &nbsp;`📊` &nbsp;GitHub Analytics
-
+ 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALAYA1803&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=A855F7&text_color=808898&include_all_commits=true&v=1" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAYA1803&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=808898&langs_count=8&v=1" alt="Lenguajes más usados" />
-  
-  <br/><br/>
-
-  <img height="165" src="https://streak-stats.demolab.com?user=ALAYA1803&hide_border=true&background=transparent&stroke=6366F1&ring=A855F7&fire=A855F7&currStreakLabel=6366F1&sideLabels=808898&dates=808898&currStreakNum=ffffff&sideNums=ffffff&v=1" alt="Racha de Commits" />
-  
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ALAYA1803&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&v=1" alt="Trofeos de GitHub" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALAYA1803&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=A855F7&text_color=808898&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ALAYA1803&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=808898&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<br/>
+<img height="165" src="https://streak-stats.demolab.com?user=ALAYA1803&hide_border=true&background=00000000&stroke=6366F1&ring=A855F7&fire=A855F7&currStreakLabel=6366F1&sideLabels=808898&dates=808898&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALAYA1803&theme=react-dark&hide_border=true&bg_color=00000000&color=6366F1&line=A855F7&point=ffffff&area=true&area_color=6366F133" alt="Contribution Graph" width="96%" />
+<br/>
+<img src="https://github-trophies.vercel.app/?username=ALAYA1803&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </div>
-
 <br/>
 
 ## &nbsp;`🎓` &nbsp;Certifications
@@ -130,17 +127,15 @@ mindset:     Proactive learner — research, master & ship fast
 ## &nbsp;`🤝` &nbsp;Let's Connect
 
 <div align="center">
-
-<!-- TODO: replace the # with your real links -->
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-alaya-0881022b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rodrigoalaya_2004@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ALAYA1803"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<!-- SNAKE ANIMATION — needs the GitHub Action setup explained below -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ALAYA1803/ALAYA1803/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
